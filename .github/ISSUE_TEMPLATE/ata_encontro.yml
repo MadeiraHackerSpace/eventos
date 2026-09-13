@@ -1,0 +1,37 @@
+name: 📝 Registro / Ata de Domingo Realizado
+description: Registre o que rolou em um encontro de domingo (participantes, projetos mexidos, fotos)
+title: "[Ata]: Domingo Hacker DD/MM/AAAA"
+labels: ["registro-encontro", "memoria-mhc"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este registro para manter a memória viva do Madeira Hacker Club!
+  - type: input
+    id: data
+    attributes:
+      label: Data do Encontro
+      placeholder: "DD/MM/AAAA"
+    validations:
+      required: true
+  - type: input
+    id: participantes
+    attributes:
+      label: Quem esteve presente?
+      placeholder: "Ex: Alice, Bob, Carlos (@carlos_gh)..."
+    validations:
+      required: true
+  - type: textarea
+    id: atividades
+    attributes:
+      label: O que foi feito / projetos trabalhados
+      placeholder: "- Fulano consertou a fonte de alimentação...\n- Beltrano testou o ESP32 com LoRa...\n- Tivemos palestra relâmpago sobre Git..."
+    validations:
+      required: true
+  - type: textarea
+    id: pendencias
+    attributes:
+      label: Próximos passos ou pendências para a semana seguinte
+      placeholder: "Ex: Comprar estanho para a bancada, configurar bot do Telegram..."
+    validations:
+      required: false

@@ -1,0 +1,57 @@
+name: 🛠️ Propor Atividade de Domingo
+description: Sugira uma oficina, palestra relâmpago ou bancada prática para um domingo à tarde
+title: "[Proposta]: "
+labels: ["proposta-evento", "triagem-administracao"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por querer movimentar os **Domingos Hackers** no MHC!
+        Preencha o formulário abaixo para que os administradores e a comunidade possam alinhar os preparativos.
+  - type: input
+    id: titulo
+    attributes:
+      label: Título da Atividade
+      placeholder: "Ex: Oficina de Solda Básica ou Introdução ao Docker"
+    validations:
+      required: true
+  - type: dropdown
+    id: trilha
+    attributes:
+      label: Em qual domingo temático melhor se encaixa?
+      options:
+        - "1º Domingo - Domingo Aberto / Nivelamento Geral"
+        - "2º Domingo - Hardware & Gambiarra (Eletrônica / Embarcados)"
+        - "3º Domingo - Software Livre & Dev (Linux / Programação)"
+        - "4º Domingo - CryptoParty / Lightning Talk (Privacidade / Segurança / Diversos)"
+        - "Qualquer Domingo disponível"
+    validations:
+      required: true
+  - type: textarea
+    id: resumo
+    attributes:
+      label: Descrição do Conteúdo
+      description: O que será abordado, qual o objetivo e o que os participantes vão aprender ou construir?
+    validations:
+      required: true
+  - type: input
+    id: materiais
+    attributes:
+      label: Pré-requisitos ou Materiais Necessários
+      placeholder: "Ex: Trazer notebook com Linux, cabo USB-C, alicate de corte, nenhum pré-requisito..."
+    validations:
+      required: false
+  - type: input
+    id: data_sugerida
+    attributes:
+      label: Data pretendida (opcional)
+      placeholder: "Ex: Próximo domingo ou DD/MM/AAAA"
+    validations:
+      required: false
+  - type: input
+    id: facilitador
+    attributes:
+      label: Nome do Facilitador / Responsável
+      placeholder: "Seu nome e usuário GitHub (@exemplo)"
+    validations:
+      required: true
