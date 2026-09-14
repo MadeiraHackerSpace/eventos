@@ -17,7 +17,7 @@ Horário padrão: **14h00 às 18h30**.
 
 | Data Prevista | Horário | Tema / Atividade | Facilitador(a) / Resp. | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **20/09/2026** | 14h00 – 18h30 | **Domingo Aberto & Bancada Livre** (Projetos livres e teste de rede/infra) | Comunidade MHC | 🟢 Confirmado |
+| **20/09/2026** | 14h00 – 18h30 | [**🧹 Mutirão Hacker — Organização do Espaço Pós-Mudança & Infra**](https://github.com/MadeiraHackerSpace/eventos/issues/6) | Comunidade & Administração MHC | 🟢 Confirmado ([#6](https://github.com/MadeiraHackerSpace/eventos/issues/6)) |
 | **27/09/2026** | 14h00 – 18h30 | [**🎮 Domingão de CS — LAN Party do MHC**](https://github.com/MadeiraHackerSpace/eventos/issues/5) | Administração MHC | 🟢 Confirmado ([#5](https://github.com/MadeiraHackerSpace/eventos/issues/5)) |
 
 ---
