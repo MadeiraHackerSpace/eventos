@@ -1,6 +1,6 @@
 # 📅 Agenda Detalhada dos Domingos Hackers
 
-Este documento detalha o planejamento dos encontros do ano no **Madeira Hacker Club**.
+Este documento detalha o planejamento dos encontros no **Madeira Hacker Club**.
 Horário padrão: **14h00 às 18h30**.
 
 ---
@@ -13,14 +13,24 @@ Horário padrão: **14h00 às 18h30**.
 
 ---
 
-## 📌 Status da Agenda (Exemplo de Modelo Operacional)
+## 📌 Próximos Encontros Confirmados
 
-| Data Prevista | Domingo | Tema / Atividade | Facilitador(a) | Status |
+| Data Prevista | Horário | Tema / Atividade | Facilitador(a) / Resp. | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| *Próximo Domingo 1* | 1º do Mês | **Domingo Aberto & Boas-Vindas** (Apresentação do espaço e projetos) | Administração MHC | 🟢 Confirmado |
-| *Próximo Domingo 2* | 2º do Mês | **Oficina de Solda & Eletrônica Básica** (Montagem de circuito com LED) | A definir via Issue | 🟡 Em Planejamento |
-| *Próximo Domingo 3* | 3º do Mês | **InstallFest Linux & Git Básico** (Formatando e configurando máquinas) | A definir via Issue | 🟡 Em Planejamento |
-| *Próximo Domingo 4* | 4º do Mês | **CryptoParty & Lightning Talks** (Segurança prática + apresentações curtas) | Todos | 🟡 Em Planejamento |
+| **20/09/2026** | 14h00 – 18h30 | **Domingo Aberto & Bancada Livre** (Projetos livres e teste de rede/infra) | Comunidade MHC | 🟢 Confirmado |
+| **27/09/2026** | 14h00 – 18h30 | **🎮 Domingão de CS — LAN Party do MHC** (Servidor dedicado local e jogatina nostálgica) | Administração MHC | 🟢 Confirmado |
+
+---
+
+## 🗓️ Grade Mensal de Referência
+
+| Domingo do Mês | Foco Geral | Dinâmica Típica |
+| :--- | :--- | :--- |
+| **1º Domingo** | **Domingo Aberto & Boas-Vindas** | Recepção de novos membros, tour pelo espaço e projetos livres. |
+| **2º Domingo** | **Hardware & Gambiarra Criativa** | Solda, eletrônica, Arduino/ESP32, sensores e consertos. |
+| **3º Domingo** | **Software Livre, Dev & InstallFest** | Instalação de GNU/Linux, Git, Python e self-hosting. |
+| **4º Domingo** | **CryptoParty / LAN Party / Talks** | Privacidade, palestras relâmpago ou eventos especiais comunitários. |
+| *5º Domingo* | *Mutirão Hacker* | Manutenção física, melhorias na rede e maratona de projetos. |
 
 ---
 
